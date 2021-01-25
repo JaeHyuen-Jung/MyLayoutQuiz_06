@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
 //        fdsfsfsdfsdfsdfsdfsdfsd
         //tretretertertertretertert
 //        esfsrwerwe
+        //ㄴㅇ라아아앙 akakakakakakakaakak313131313214192375692384756asowekudfghalskedfjhbnalksdjhflqikweuyjjj
+
 
     }
 }
