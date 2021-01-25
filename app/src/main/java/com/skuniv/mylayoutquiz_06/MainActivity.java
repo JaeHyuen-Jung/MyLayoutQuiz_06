@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         //ㄴㅇ라아아앙 akakakakakakakaakak313131313214192375692384756asowekudfghalskedfjhbnalksdjhflqikweuyjjj
     //update12343334757575757575757575757575
         //sadfasdfasd
+        //동동동대문을 열어라 남남남대문을 열어라 아ㅣ쉬워벌써 12시~
     }
 }
